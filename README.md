@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ductr2hn/Advanced-Roblox-Speed-and-Jump-script/main/SpeedJumpChanger.lua"))()
+
 # Advanced Roblox Speed and Jump script
 Just a custom GUI I made for fun to tweak speed and jump value, it is convenient, that's all.  
 I built it to be convenient, easy to configure, and designed it with a theme and color scheme that I personally like.
