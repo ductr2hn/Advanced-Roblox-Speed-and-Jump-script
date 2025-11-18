@@ -1,3 +1,5 @@
+- Copy the link under this message and execute it using any executor:  
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ductr2hn/Advanced-Roblox-Speed-and-Jump-script/main/SpeedJumpChanger.lua"))()
 
 # Advanced Roblox Speed and Jump script
